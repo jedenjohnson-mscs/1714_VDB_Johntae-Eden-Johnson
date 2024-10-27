@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "SQL Server Scripts1\SQL Server Scripts1.ssmssqlproj", "{744B582D-6AC6-4735-B050-112BF11A5EA8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Week6Joins", "Week6Joins\Week6Joins.ssmssqlproj", "{A0D97763-CB28-4CFB-8442-B79F2265F24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744B582D-6AC6-4735-B050-112BF11A5EA8}.Default|Default.ActiveCfg = Default
+		{DA7555DB-EAD5-4ADB-8696-3B18E57480DB}.Default|Default.ActiveCfg = Default
+		{A0D97763-CB28-4CFB-8442-B79F2265F24C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B268EC99-654C-486A-AA66-239917D458A5}
+	EndGlobalSection
+EndGlobal
